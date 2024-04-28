@@ -1,0 +1,24 @@
+version: '3.8'
+services:
+  websocket-server:
+    build:
+      context: ./src
+      dockerfile: Dockerfile-websocket
+    ports:
+      - "8000:8000"
+
+  main-script:
+    build:
+      context: ./src
+      dockerfile: Dockerfile-main
+    environment:
+      - DISPLAY=host.docker.internal:0
+
+  streamlit-app:
+    build:
+      context: ./src
+      dockerfile: Dockerfile-streamlit
+    ports:
+      - "8501:8501"
+    environment:
+      - DISPLAY=host.docker.internal:0

@@ -1,0 +1,14 @@
+FROM python:3.10
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy the requirements file and install Python dependencies
+COPY requirements.txt ./
+RUN pip install --upgrade pip && pip install -r requirements.txt
+
+# Copy the WebSocket server script
+COPY websocket_server.py ./
+
+# Command to run the WebSocket server
+CMD ["uvicorn", "websocket_server:app", "--reload", "--host", "0.0.0.0", "--port", "8000"]
