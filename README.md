@@ -121,3 +121,7 @@ Below is an example of how the data looks when downloaded as a CSV file from the
 - WebSocket Connection Issues: Ensure the WebSocket server address in the client configuration matches the server's IP and port.
 - Camera Not Detected: Verify that the Raspberry Pi's camera is properly connected and enabled.
 - Dependency Errors: Check that all Python dependencies are correctly installed in the virtual environment.
+
+### Contributors
+- Ahmed Elfarra
+- Ammar Alzureiqi
