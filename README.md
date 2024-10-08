@@ -129,8 +129,3 @@ Below is an example of how the data looks when downloaded as a CSV file from the
 ### Contributors
 - Ahmed Elfarra
 - Ammar Alzureiqi
-
-
-<p align="center"> 
-    <a href="mailto:support@retailtraffic.com"> 
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://discord.gg/retailtraffic"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> </p>
