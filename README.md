@@ -1,3 +1,5 @@
+<p align="center"> <img src="./images/logo.png" alt="Retail Store Traffic System Logo" width="100"> </p> <h1 align="center">Retail Store Customer Traffic Analysis System</h1> <p align="center"> <strong>Advanced real-time insights for retail store optimization</strong> </p> <p align="center"> <a href="#about">About</a> • <a href="#key-features">Key Features</a> • <a href="#tech-stack">Tech Stack</a> • <a href="#getting-started">Getting Started</a> • <a href="#troubleshooting">Troubleshooting</a> • <a href="#contributors">Contributors</a> </p>
+
 # Retail Store Customer Traffic Analysis System
 
 - This project leverages a Raspberry Pi with a camera module to develop an advanced system for tracking and analyzing customer traffic in retail environments. Using computer vision and deep learning technologies, the system provides real-time insights into store performance, helping store owners optimize both operations and customer experience.
@@ -22,6 +24,8 @@ The system integrates several technologies and components:
 - **Scalable Architecture**: Designed to be easily scalable, supporting increased load and additional cameras without significant changes to the core system.
 - **Security and Privacy**: Ensures data is processed and stored securely, with measures to protect against unauthorized access.
 
+Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Raspberry%20Pi-FF0000?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> </p>
 
 ## Prerequisites
 Before running the system, ensure you have the following installed:
@@ -125,3 +129,8 @@ Below is an example of how the data looks when downloaded as a CSV file from the
 ### Contributors
 - Ahmed Elfarra
 - Ammar Alzureiqi
+
+
+<p align="center"> 
+    <a href="mailto:support@retailtraffic.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://discord.gg/retailtraffic"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> </a> </p>
