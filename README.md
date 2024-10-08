@@ -1,4 +1,4 @@
-<p align="center"> <img src="./images/logo.png" alt="Retail Store Traffic System Logo" width="100"> </p> <h1 align="center">Retail Store Customer Traffic Analysis System</h1> <p align="center"> <strong>Advanced real-time insights for retail store optimization</strong> </p> <p align="center"> <a href="#retail-store-customer-traffic-analysis-system">About</a> • <a href="#key-features">Key Features</a> • <a href="#tech-stack">Tech Stack</a> • <a href="#getting-started">Getting Started</a> • <a href="#troubleshooting">Troubleshooting</a> • <a href="#contributors">Contributors</a> </p>
+<p align="center"></p> <h1 align="center">Retail Store Customer Traffic Analysis System</h1> <p align="center"> <strong>Advanced real-time insights for retail store optimization</strong> </p> <p align="center"> <a href="#retail-store-customer-traffic-analysis-system">About</a> • <a href="#key-features">Key Features</a> • <a href="#tech-stack">Tech Stack</a> • <a href="#getting-started">Getting Started</a> • <a href="#troubleshooting">Troubleshooting</a> • <a href="#contributors">Contributors</a> </p>
 
 # Retail Store Customer Traffic Analysis System
 
