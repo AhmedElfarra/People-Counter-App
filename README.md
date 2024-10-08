@@ -24,7 +24,7 @@ The system integrates several technologies and components:
 - **Scalable Architecture**: Designed to be easily scalable, supporting increased load and additional cameras without significant changes to the core system.
 - **Security and Privacy**: Ensures data is processed and stored securely, with measures to protect against unauthorized access.
 
-Tech Stack
+### Tech Stack
 <p align="center"> <img src="https://img.shields.io/badge/Raspberry%20Pi-FF0000?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> </p>
 
 ## Prerequisites
